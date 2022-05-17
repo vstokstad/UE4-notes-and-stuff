@@ -9,3 +9,25 @@
         <li>ari asks for perf tips: https://twitter.com/flassari/status/1522108089255739397?s=21&t=e4W0AeumZhDdXvzFQS2NCA
         
         <ul>
+		Perf notes
+Aris unreal notes:
+https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef
+Connect C++ to UMG Blueprints with BindWidget · ben🌱ui
+https://benui.ca/unreal/ui-bindwidget/
+#notGDC 2022 Talks · ben🌱ui
+https://benui.ca/unreal/notgdc-2022/
+
+https://benui.ca/unreal/uproperty/#bindwidget
+https://youtube.com/watch?v=gGRHBZFOzEk&feature=share
+
+
+https://youtube.com/watch?v=gGRHBZFOzEk&feature=share
+
+	◦	Play a Video File | Unreal Engine Documentation
+	◦	https://docs.unrealengine.com/4.26/en-US/WorkingWithMedia/MediaFramework/HowTo/FileMediaSource/
+	◦	Asynchronous Loading with TAssetPtr<T> · ben🌱ui
+	◦	https://benui.ca/unreal/tassetptr/
+	◦	Async | Unreal Engine Documentation
+	◦	https://docs.unrealengine.com/4.26/en-US/API/Runtime/Core/Async/Async/
+	
+	
