@@ -1117,3 +1117,5 @@ If we are using the default renderer, the job system will execute
 https://forums.unrealengine.com/docs?topic=264941
 
 * FAQ: Rendering - Unreal Engine / Rendering - Unreal Engine Forums <br/> https://forums.unrealengine.com/t/faq-rendering/493451
+
+* NvRTX/UnrealEngine: Unreal Engine source code <br/> https://github.com/NvRTX/UnrealEngine/tree/rtx-dlss-4.27#optimized-instanced-static-mesh-culling
