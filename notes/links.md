@@ -1121,3 +1121,5 @@ https://forums.unrealengine.com/docs?topic=264941
 * NvRTX/UnrealEngine: Unreal Engine source code <br/> https://github.com/NvRTX/UnrealEngine/tree/rtx-dlss-4.27#optimized-instanced-static-mesh-culling
 
 * Can someone help with foliage tool lighting problem? - Unreal Engine / Rendering - Unreal Engine Forums <br/> https://forums.unrealengine.com/t/can-someone-help-with-foliage-tool-lighting-problem/561890
+
+* Setting opacity of Opaque Material - Unreal Engine / Rendering - Unreal Engine Forums <br/> https://forums.unrealengine.com/t/setting-opacity-of-opaque-material/446165
