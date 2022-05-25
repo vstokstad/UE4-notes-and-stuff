@@ -1119,3 +1119,5 @@ https://forums.unrealengine.com/docs?topic=264941
 * FAQ: Rendering - Unreal Engine / Rendering - Unreal Engine Forums <br/> https://forums.unrealengine.com/t/faq-rendering/493451
 
 * NvRTX/UnrealEngine: Unreal Engine source code <br/> https://github.com/NvRTX/UnrealEngine/tree/rtx-dlss-4.27#optimized-instanced-static-mesh-culling
+
+* Can someone help with foliage tool lighting problem? - Unreal Engine / Rendering - Unreal Engine Forums <br/> https://forums.unrealengine.com/t/can-someone-help-with-foliage-tool-lighting-problem/561890
