@@ -1111,3 +1111,7 @@ If we are using the default renderer, the job system will execute
     
 
 * Storing Custom Data in a Material Per Primitive | Unreal Engine Documentation <br/> https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/Materials/CustomPrimitiveData/
+
+* Tech Note - [Bug] 4.26 D3D11 - Shader creation on multiple threads causes hitches - Rendering - Docs - Unreal Engine Forums <br/>
+
+https://forums.unrealengine.com/docs?topic=264941
