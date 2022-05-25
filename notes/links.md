@@ -1115,3 +1115,5 @@ If we are using the default renderer, the job system will execute
 * Tech Note - [Bug] 4.26 D3D11 - Shader creation on multiple threads causes hitches - Rendering - Docs - Unreal Engine Forums <br/>
 
 https://forums.unrealengine.com/docs?topic=264941
+
+* FAQ: Rendering - Unreal Engine / Rendering - Unreal Engine Forums <br/> https://forums.unrealengine.com/t/faq-rendering/493451
