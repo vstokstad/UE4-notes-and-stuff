@@ -33,14 +33,13 @@ https://docs.unrealengine.com/4.26/en-US/API/Runtime/Core/Async/Async/
 
 * Using Async Collision Traces in Unreal Engine 4 - Bryan Corell - Medium <br/> https://web.archive.org/web/20200530051219/https://medium.com/@bryan.corell/using-async-collision-traces-in-unreal-engine-4-2cc312c825f5
 
-* <https://github.com/ajweeks/FlexEngine> <br/> <https://github.com/ajweeks/FlexEngine>
 
 * Flex Engine <br/> <http://ajweeks.com/flex-engine/>
 
 * Compute shaders UNITY
 ../ScriptReference/ComputeShader.html
 
-* <https://link.medium.com/Ho9inlRbdqb> <br/> <https://link.medium.com/Ho9inlRbdqb>
+* Using Compute Shaders in Unreal Engine 4 <br/> <https://link.medium.com/Ho9inlRbdqb>
 
 * Tutorial List: Unity Shaders: <https://minionsart.github.io/tutorials/#shaders>
 
