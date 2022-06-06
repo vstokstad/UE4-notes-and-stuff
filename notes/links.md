@@ -10,3 +10,7 @@
 * Chaos Physics Scene does not use the World PhysicsCollisionHandler
 
 https://udn.unrealengine.com/s/question/0D54z00007gr2KcCAI/chaos-physics-scene-does-not-use- the-world-physicscollisionhandler
+
+* Implementing Fshader Cache to smooth out hitches.
+
+https://udn.unrealengine.com/s/question/0D54z00007RHJRYCA5/implementing-fshader-cache-to- smooth-out-hitches
