@@ -18,3 +18,7 @@ https://udn.unrealengine.com/s/question/0D54z00007RHJRYCA5/implementing-fshader-
 * GeometryCache performance and future plans
 
 https://udn.unrealengine.com/s/question/0D54z00007gqoCICAY/geometrycache-performance-and- future-plans
+
+* Setting p.BroadphaseType to 4 hits check in AABBTree PrepareCopyTimeSliced
+
+https://udn.unrealengine.com/s/question/0D54z00007iKhPhCAK/setting-pbroadphasetype-to-4-hits- check-in-aabbtree-preparecopytimesliced
