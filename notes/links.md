@@ -22,3 +22,5 @@ https://udn.unrealengine.com/s/question/0D54z00007gqoCICAY/geometrycache-perform
 * Setting p.BroadphaseType to 4 hits check in AABBTree PrepareCopyTimeSliced
 
 https://udn.unrealengine.com/s/question/0D54z00007iKhPhCAK/setting-pbroadphasetype-to-4-hits- check-in-aabbtree-preparecopytimesliced
+
+* Streaming Virtual Texturing in Unreal Engine | Unreal Engine 5.0 Documentation https://docs.unrealengine.com/5.0/en-US/streaming-virtual-texturing-in-unreal-engine/
