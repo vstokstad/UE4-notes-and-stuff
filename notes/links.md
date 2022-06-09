@@ -32,3 +32,5 @@ https://udn.unrealengine.com/s/question/0D54z00007iKhPhCAK/setting-pbroadphasety
 * remove forcing dbuffer. decals are a bit expensive.
 * find a way to not update niagara! sparks and shit need to fly but not if its not visible and NOT if its on a fucking checkpoint thats not visible. focus on vehicles for now though.
 * profile render thread properly WITH RHITread enabled. is this the bottleneck?
+
+* https://youtube.com/watch?v=VTjALz6dhvw&feature=share https://youtube.com/watch?v=VTjALz6dhvw&feature=share
