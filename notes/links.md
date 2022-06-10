@@ -34,3 +34,7 @@ https://udn.unrealengine.com/s/question/0D54z00007iKhPhCAK/setting-pbroadphasety
 * profile render thread properly WITH RHITread enabled. is this the bottleneck?
 
 * https://youtube.com/watch?v=VTjALz6dhvw&feature=share https://youtube.com/watch?v=VTjALz6dhvw&feature=share
+
+* Using the RebuildHLOD Automation Tool - Unreal Engine / Pipeline & Plugins - Unreal Engine Forums
+
+https://forums.unrealengine.com/t/using-the-rebuildhlod-automation-tool/265073
