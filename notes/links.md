@@ -40,3 +40,7 @@ https://udn.unrealengine.com/s/question/0D54z00007iKhPhCAK/setting-pbroadphasety
 https://forums.unrealengine.com/t/using-the-rebuildhlod-automation-tool/265073
 
 * Dynamic Resolution | Unreal Engine Documentation https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/DynamicResolution/
+
+* UnrealEngine/Patches/Improve AO Shader memory access pattern at EngineOpt-4.25 * GPUOpenSoftware/UnrealEngine
+
+https://github.com/GPUOpenSoftware/UnrealEngine/tree/EngineOpt-4.25/Patches/ Improve%20AO%20Shader%20memory%20access%20pattern
