@@ -44,3 +44,5 @@ https://forums.unrealengine.com/t/using-the-rebuildhlod-automation-tool/265073
 * UnrealEngine/Patches/Improve AO Shader memory access pattern at EngineOpt-4.25 * GPUOpenSoftware/UnrealEngine
 
 https://github.com/GPUOpenSoftware/UnrealEngine/tree/EngineOpt-4.25/Patches/ Improve%20AO%20Shader%20memory%20access%20pattern
+
+* https://youtube.com/watch?v=u7K4qFTW608&feature=share https://youtube.com/watch?v=u7K4qFTW608&feature=share
