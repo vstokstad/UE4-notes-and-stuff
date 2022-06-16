@@ -53,3 +53,5 @@
  <https://youtube.com/watch?v=KHWquMYtji0&feature=share>
 
 * FRHICommandListImmediate get - Programming & Scripting / C++ - Unreal Engine Forums https://forums.unrealengine.com/t/frhicommandlistimmediate-get/481455
+
+* https://cs.uwaterloo.ca/~m32rober/rsqrt.pdf
