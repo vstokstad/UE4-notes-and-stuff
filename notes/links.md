@@ -59,3 +59,7 @@
 * https://link.medium.com/B6jXT6XMUqb https://link.medium.com/B6jXT6XMUqb
 
 * UE4 Automation Testing | Squareys' Blog https://blog.squareys.de/ue4-automation-testing/
+
+* DaedalicEntertainment/ue4-test-automation: Facilitates setting up integration test suits with Unreal Engine 4 Gauntlet.
+
+https://github.com/DaedalicEntertainment/ue4-test-automation#setup
