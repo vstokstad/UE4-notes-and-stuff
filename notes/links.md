@@ -55,3 +55,5 @@
 * FRHICommandListImmediate get - Programming & Scripting / C++ - Unreal Engine Forums https://forums.unrealengine.com/t/frhicommandlistimmediate-get/481455
 
 * https://cs.uwaterloo.ca/~m32rober/rsqrt.pdf
+
+* https://link.medium.com/B6jXT6XMUqb https://link.medium.com/B6jXT6XMUqb
