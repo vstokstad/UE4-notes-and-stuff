@@ -57,3 +57,5 @@
 * https://cs.uwaterloo.ca/~m32rober/rsqrt.pdf
 
 * https://link.medium.com/B6jXT6XMUqb https://link.medium.com/B6jXT6XMUqb
+
+* UE4 Automation Testing | Squareys' Blog https://blog.squareys.de/ue4-automation-testing/
