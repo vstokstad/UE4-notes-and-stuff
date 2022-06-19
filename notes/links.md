@@ -63,3 +63,7 @@
 * DaedalicEntertainment/ue4-test-automation: Facilitates setting up integration test suits with Unreal Engine 4 Gauntlet.
 
 https://github.com/DaedalicEntertainment/ue4-test-automation#setup
+
+* BugReport: D3D12 Crash when command lists per payload exceeds 128 (due to wrong constant used)
+
+https://udn.unrealengine.com/s/question/0D54z00007Y5AYzCAN/bugreport-d3d12-crash-when- command-lists-per-payload-exceeds-128-due-to-wrong-constant-used
