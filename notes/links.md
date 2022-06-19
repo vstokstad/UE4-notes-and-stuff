@@ -81,3 +81,7 @@ https://udn.unrealengine.com/s/question/0D54z00007gtCmOCAU/how-to-eliminate-moir
 * RDG 101_ A Crash Course.pptx - Box
 
 https://m.box.com/shared_item/ https%3A%2F%2Fepicgames.box.com%2Fs%2Ful1h44ozs0t2850ug0hrohlzm53kxwrz
+
+* Draw Call Bottleneck? - Help me understand Frontend - Unreal Engine / Rendering - Unreal Engine Forums
+
+https://forums.unrealengine.com/t/draw-call-bottleneck-help-me-understand-frontend/94765
