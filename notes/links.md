@@ -71,3 +71,5 @@ https://udn.unrealengine.com/s/question/0D54z00007Y5AYzCAN/bugreport-d3d12-crash
 * UE4 Rendering FAQ - Performance https://udn.unrealengine.com/s/article/UE4-Rendering-FAQ-Performance
 
 * Bringing Fortnite to Mobile https://udn.unrealengine.com/s/article/Bringing-Fortnite-to-Mobile
+
+* Dealing with GPU crashes https://udn.unrealengine.com/s/article/dealing-with-GPU-crashes
