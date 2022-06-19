@@ -73,3 +73,7 @@ https://udn.unrealengine.com/s/question/0D54z00007Y5AYzCAN/bugreport-d3d12-crash
 * Bringing Fortnite to Mobile https://udn.unrealengine.com/s/article/Bringing-Fortnite-to-Mobile
 
 * Dealing with GPU crashes https://udn.unrealengine.com/s/article/dealing-with-GPU-crashes
+
+* How to eliminate Moire effect on materials?
+
+https://udn.unrealengine.com/s/question/0D54z00007gtCmOCAU/how-to-eliminate-moire-effect-on- materials
