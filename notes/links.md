@@ -89,3 +89,7 @@ https://forums.unrealengine.com/t/draw-call-bottleneck-help-me-understand-fronte
 * Animation Insights Overview | Unreal Engine Documentation
 
 https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/ UnrealInsights/AnimationInsights/
+
+* How to Implement Trace Source Filtering | Unreal Engine Documentation
+
+https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/ UnrealInsights/AnimationInsights/HowTo/TraceSourceFiltering/
