@@ -105,3 +105,7 @@ https://dev.epicgames.com/community/learning/courses/d1r/optimizing-projects-for
 * Search | Epic Developer Community
 
 https://dev.epicgames.com/community/search? query=Optimization&types=learning&application=unreal_engine
+
+* Fantastic Bottlenecks and Where to Find Them | Unreal Fest Europe 2019 | Unreal Engine | Epic Developer Community
+
+https://dev.epicgames.com/community/learning/talks-and-demos/O6a/fantastic-bottlenecks-and- where-to-find-them-unreal-fest-europe-2019-unreal-engine
