@@ -85,3 +85,7 @@ https://m.box.com/shared_item/ https%3A%2F%2Fepicgames.box.com%2Fs%2Ful1h44ozs0t
 * Draw Call Bottleneck? - Help me understand Frontend - Unreal Engine / Rendering - Unreal Engine Forums
 
 https://forums.unrealengine.com/t/draw-call-bottleneck-help-me-understand-frontend/94765
+
+* Animation Insights Overview | Unreal Engine Documentation
+
+https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/ UnrealInsights/AnimationInsights/
