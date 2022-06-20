@@ -93,3 +93,5 @@ https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndPr
 * How to Implement Trace Source Filtering | Unreal Engine Documentation
 
 https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/ UnrealInsights/AnimationInsights/HowTo/TraceSourceFiltering/
+
+* GPU Profiling | Unreal Engine Documentation https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/GPU/
