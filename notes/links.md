@@ -95,3 +95,5 @@ https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndPr
 https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/ UnrealInsights/AnimationInsights/HowTo/TraceSourceFiltering/
 
 * GPU Profiling | Unreal Engine Documentation https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/GPU/
+
+* Optimization Tools in Code Plugins - UE Marketplace https://www.unrealengine.com/marketplace/en-US/product/optimization-tools
