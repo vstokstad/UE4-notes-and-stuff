@@ -111,3 +111,5 @@ https://dev.epicgames.com/community/search? query=Optimization&types=learning&ap
 https://dev.epicgames.com/community/learning/talks-and-demos/O6a/fantastic-bottlenecks-and- where-to-find-them-unreal-fest-europe-2019-unreal-engine
 
 * Hierarchical LOD Outliner Reference in Unreal Engine | Unreal Engine 5.0 Documentation https://docs.unrealengine.com/5.0/en-US/hierarchical-lod-outliner-reference-in-unreal-engine/
+
+* https://youtube.com/watch?v=VjPLegMhm8I&feature=share https://youtube.com/watch?v=VjPLegMhm8I&feature=share
