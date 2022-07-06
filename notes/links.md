@@ -115,3 +115,5 @@ https://dev.epicgames.com/community/learning/talks-and-demos/O6a/fantastic-bottl
 * https://youtube.com/watch?v=VjPLegMhm8I&feature=share https://youtube.com/watch?v=VjPLegMhm8I&feature=share
 
 * Niagara Data Interfaces https://udn.unrealengine.com/s/article/Niagara-Data-Interfaces
+
+* AMD FidelityFX - Super Resolution 2 - GPUOpen https://gpuopen.com/fidelityfx-superresolution-2/
