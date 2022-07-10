@@ -121,3 +121,7 @@ https://dev.epicgames.com/community/learning/talks-and-demos/O6a/fantastic-bottl
 * Post Process Materials | Unreal Engine Documentation
 
 https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/PostProcessEffects/ PostProcessMaterials/
+
+* https://docs.unrealengine.com/5.0/en-US/API/Runtime/Core/Math/FMath/ ComputeProjectedSphereScissorRec
+
+https://docs.unrealengine.com/5.0/en-US/API/Runtime/Core/Math/FMath/ ComputeProjectedSphereScissorRec-
