@@ -125,3 +125,7 @@ https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/PostProcessEffects
 * https://docs.unrealengine.com/5.0/en-US/API/Runtime/Core/Math/FMath/ ComputeProjectedSphereScissorRec
 
 https://docs.unrealengine.com/5.0/en-US/API/Runtime/Core/Math/FMath/ ComputeProjectedSphereScissorRec-
+
+* FMath::GetDistanceWithinConeSegment | Unreal Engine Documentation
+
+https://docs.unrealengine.com/5.0/en-US/API/Runtime/Core/Math/FMath/ GetDistanceWithinConeSegment/
