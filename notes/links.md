@@ -129,3 +129,5 @@ https://docs.unrealengine.com/5.0/en-US/API/Runtime/Core/Math/FMath/ ComputeProj
 * FMath::GetDistanceWithinConeSegment | Unreal Engine Documentation
 
 https://docs.unrealengine.com/5.0/en-US/API/Runtime/Core/Math/FMath/ GetDistanceWithinConeSegment/
+
+* Imposters in UE4 https://www.unrealgamedev.org/post/imposters-in-ue4
