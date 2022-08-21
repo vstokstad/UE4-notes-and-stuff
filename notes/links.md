@@ -137,3 +137,5 @@ https://docs.unrealengine.com/5.0/en-US/API/Runtime/Core/Math/FMath/ GetDistance
 * Programming PROP Tips in Unreal: Optimize Blueprints | Reference viewer, Size map and Wrappers -- UNF Games
 
 https://www.unfgames.com/blog-full/blueprints-tutorial-unreal-engine-5-reference-viewer
+
+* https://github.com/EpicGames/UnrealEngine/pull/9392 https://github.com/EpicGames/UnrealEngine/pull/9392
