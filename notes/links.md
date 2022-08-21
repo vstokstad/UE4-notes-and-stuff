@@ -143,3 +143,7 @@ https://www.unfgames.com/blog-full/blueprints-tutorial-unreal-engine-5-reference
 * https://github.com/EpicGames/UnrealEngine/commit/ c1ea79bca537b843006f9e728fcd127a851701c0
 
 https://github.com/EpicGames/UnrealEngine/commit/ c1ea79bca537b843006f9e728fcd127a851701c0
+
+* What would be the guideline to deal with floating numbers in UE5?
+
+https://udn.unrealengine.com/s/question/0D54z00007iLattCAC/what-would-be-the-guideline-to- deal-with-floating-numbers-in-ue5
