@@ -151,3 +151,7 @@ https://udn.unrealengine.com/s/question/0D54z00007iLattCAC/what-would-be-the-gui
 * Variable Rate Shading: a scalpel in a world of sledgehammers - DirectX Developer Blog
 
 https://devblogs.microsoft.com/directx/variable-rate-shading-a-scalpel-in-a-world-of- sledgehammers/
+
+* https://github.com/GPUOpen-Effects/FidelityFX-FSR2/blob/master/src/ffx-fsr2-api/shaders/ ffx_fsr2_rec
+
+https://github.com/GPUOpen-Effects/FidelityFX-FSR2/blob/master/src/ffx-fsr2-api/shaders/ ffx_fsr2_reconstruct_dilated_velocity_and_previous_depth.h
