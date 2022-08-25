@@ -147,3 +147,7 @@ https://github.com/EpicGames/UnrealEngine/commit/ c1ea79bca537b843006f9e728fcd12
 * What would be the guideline to deal with floating numbers in UE5?
 
 https://udn.unrealengine.com/s/question/0D54z00007iLattCAC/what-would-be-the-guideline-to- deal-with-floating-numbers-in-ue5
+
+* Variable Rate Shading: a scalpel in a world of sledgehammers - DirectX Developer Blog
+
+https://devblogs.microsoft.com/directx/variable-rate-shading-a-scalpel-in-a-world-of- sledgehammers/
