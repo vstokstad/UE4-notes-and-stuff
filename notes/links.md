@@ -155,3 +155,5 @@ https://devblogs.microsoft.com/directx/variable-rate-shading-a-scalpel-in-a-worl
 * https://github.com/GPUOpen-Effects/FidelityFX-FSR2/blob/master/src/ffx-fsr2-api/shaders/ ffx_fsr2_rec
 
 https://github.com/GPUOpen-Effects/FidelityFX-FSR2/blob/master/src/ffx-fsr2-api/shaders/ ffx_fsr2_reconstruct_dilated_velocity_and_previous_depth.h
+
+* AMD ¼Prof - AMD https://developer.amd.com/amd-uprof/#download
