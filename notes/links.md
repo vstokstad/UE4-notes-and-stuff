@@ -159,3 +159,5 @@ https://github.com/GPUOpen-Effects/FidelityFX-FSR2/blob/master/src/ffx-fsr2-api/
 * AMD ¼Prof - AMD https://developer.amd.com/amd-uprof/#download
 
 * Finding and Removing Fully Occluded Meshes | Unreal Engine Documentation https://docs.unrealengine.com/4.27/en-US/WorkingWithContent/Jacketing/
+
+* Multiplayer Programming Quick Start for Unreal Engine | Unreal Engine 5.0 Documentation https://docs.unrealengine.com/5.0/en-US/multiplayer-programming-quick-start-for-unreal-engine/
