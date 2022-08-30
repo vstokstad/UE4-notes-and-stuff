@@ -165,3 +165,7 @@ https://github.com/GPUOpen-Effects/FidelityFX-FSR2/blob/master/src/ffx-fsr2-api/
 * Chaos Destruction Overview | Unreal Engine 4.27 Documentation
 
 https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Physics/ChaosPhysics/ ChaosDestruction/ChaosDestructionOverview/
+
+* Geometry collection setup questions
+
+https://udn.unrealengine.com/s/question/0D54z00007JUQfjCAH/geometry-collection-setup- questions
