@@ -1,3 +1,4 @@
 git
 *.pub
-*.git
+.git
+.vscode
