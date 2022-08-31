@@ -1,11 +1,10 @@
-#
-
-* Adjusting Engine Feature Levels | Unreal Engine Documentation
+## performance links
+* Adjusting Engine Feature Levels | Unreal Engine Documentation 
 <https://docs.unrealengine.com/4.26/en-US/TestingAndOptimization/PerformanceAndProfiling/Options/>
 
-* <https://youtube.com/watch?v=EbXakIuZPFo&feature=share> <https://youtube.com/watch?v=EbXakIuZPFo&feature=share>
+* https://youtube.com/watch?v=EbXakIuZPFo&feature=share <https://youtube.com/watch?v=EbXakIuZPFo&feature=share>
 
-* Screen Percentage with Temporal Upsample | Unreal Engine Documentation <<https://docs.unrealengine.com/4.26/en-US/RenderingAndGraphics/ScreenPercentage/>
+* Screen Percentage with Temporal Upsample | Unreal Engine Documentation <https://docs.unrealengine.com/4.26/en-US/RenderingAndGraphics/ScreenPercentage/>
 
 * Chaos Physics Scene does not use the World PhysicsCollisionHandler
 <https://udn.unrealengine.com/s/question/0D54z00007gr2KcCAI/chaos-physics-scene-does-not-use-the-world-physicscollisionhandler>
@@ -17,7 +16,7 @@
 <https://udn.unrealengine.com/s/question/0D54z00007gqoCICAY/geometrycache-performance-and-future-plans>
 
 * Setting p.BroadphaseType to 4 hits check in AABBTree PrepareCopyTimeSliced
-<https://udn.unrealengine.com/s/question/0D54z00007iKhPhCAK/setting-pbroadphasetype-to-4-hits>- check-in-aabbtree-preparecopytimesliced
+<https://udn.unrealengine.com/s/question/0D54z00007iKhPhCAK/setting-pbroadphasetype-to-4-hits-check-in-aabbtree-preparecopytimesliced>
 
 * Streaming Virtual Texturing in Unreal Engine | Unreal Engine 5.0 Documentation <https://docs.unrealengine.com/5.0/en-US/streaming-virtual-texturing-in-unreal-engine/>
 
@@ -29,10 +28,8 @@
 
 * Dynamic Resolution | Unreal Engine Documentation <https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/DynamicResolution/>
 
-* UnrealEngine/Patches/Improve AO Shader memory access pattern at EngineOpt-4.25 * GPUOpenSoftware/UnrealEngine
+* UnrealEngine/Patches/Improve AO Shader memory access pattern at EngineOpt-4.25 GPUOpenSoftware/UnrealEngine
 <https://github.com/GPUOpenSoftware/UnrealEngine/tree/EngineOpt-4.25/Patches/>
-
-* Improve Shader memory access pattern
 
 * Significance Manager short tutorial
 <https://youtube.com/watch?v=u7K4qFTW608&feature=share>
