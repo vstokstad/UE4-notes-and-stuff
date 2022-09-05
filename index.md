@@ -135,3 +135,4 @@
 <https://udn.unrealengine.com/s/question/0D54z00007JUQfjCAH/geometry-collection-setup-questions>
 
 * <https://youtu.be/iFKzXnIiH50> <https://youtu.be/iFKzXnIiH50>
+* ue5 Lightweight instances https://dev.epicgames.com/community/learning/tutorials/zweW/light-weight-instances-ue5
