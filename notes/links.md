@@ -165,3 +165,4 @@ https://udn.unrealengine.com/s/question/0D54z00007JUQfjCAH/geometry-collection-s
 
 * https://youtu.be/_TZ2lUJefvY https://youtu.be/_TZ2lUJefvY
 * UE5 Light Instances https://dev.epicgames.com/community/learning/tutorials/zweW/light-weight-instances-ue5
+* HLOD generation Automation - https://forums.unrealengine.com/t/using-the-rebuildhlod-automation-tool/265073
