@@ -168,3 +168,5 @@ https://udn.unrealengine.com/s/question/0D54z00007JUQfjCAH/geometry-collection-s
 
 * Feed Detail https://udn.unrealengine.com/s/feed/0D54z000080EMuRCAW
 * HLOD generation Automation - https://forums.unrealengine.com/t/using-the-rebuildhlod-automation-tool/265073
+
+* Feed Detail https://udn.unrealengine.com/s/feed/0D54z00007jjIbkCAE
