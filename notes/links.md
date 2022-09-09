@@ -178,3 +178,5 @@ https://udn.unrealengine.com/s/question/0D54z00007iIwnqCAC/how-to-optimize-the-r
 * Landscape physical material render fixes: * EpicGames/UnrealEngine@9eeba5a
 
 https://github.com/EpicGames/UnrealEngine/commit/ 9eeba5aaa3e7ad72ae16cf044351cf8fae1132a0
+
+* Feed Detail https://udn.unrealengine.com/s/feed/0D54z00007SBJV4CAP
