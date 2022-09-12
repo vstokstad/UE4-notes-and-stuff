@@ -196,3 +196,7 @@ https://udn.unrealengine.com/s/question/0D54z00007Y4aWoCAJ/skeletal-mesh-compone
 * Feed Detail https://udn.unrealengine.com/s/feed/0D54z00006u24i1CAA
 
 * Causing Chaos: The Future of Physics and Destruction https://udn.unrealengine.com/s/article/Causing-Chaos-The-Future-of-Physics-and-Destruction
+
+* Some ISPC functions aren't set up to vectorize
+
+https://udn.unrealengine.com/s/question/0D54z00007Y4aTBCAZ/some-ispc-functions-arent-set-up- to-vectorize
