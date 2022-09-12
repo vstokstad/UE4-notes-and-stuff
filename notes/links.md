@@ -200,3 +200,5 @@ https://udn.unrealengine.com/s/question/0D54z00007Y4aWoCAJ/skeletal-mesh-compone
 * Some ISPC functions aren't set up to vectorize
 
 https://udn.unrealengine.com/s/question/0D54z00007Y4aTBCAZ/some-ispc-functions-arent-set-up- to-vectorize
+
+* GDC Vault - Scalability for All: Unreal Engine 4 on Intel (Presented by Epic Games and Intel) https://gdcvault.com/browse/gdc-19/play/1026175
