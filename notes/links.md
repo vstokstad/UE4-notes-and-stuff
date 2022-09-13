@@ -172,37 +172,28 @@ https://udn.unrealengine.com/s/question/0D54z00007JUQfjCAH/geometry-collection-s
 * Feed Detail https://udn.unrealengine.com/s/feed/0D54z00007jjIbkCAE
 
 * how to optimize the runtime gpuskincache (recompute tangents) cost?
-
 https://udn.unrealengine.com/s/question/0D54z00007iIwnqCAC/how-to-optimize-the-runtime- gpuskincache-recompute-tangents-cost
 
 * Landscape physical material render fixes: * EpicGames/UnrealEngine@9eeba5a
-
-https://github.com/EpicGames/UnrealEngine/commit/ 9eeba5aaa3e7ad72ae16cf044351cf8fae1132a0
+https://github.com/EpicGames/UnrealEngine/commit/9eeba5aaa3e7ad72ae16cf044351cf8fae1132a0
 
 * Feed Detail https://udn.unrealengine.com/s/feed/0D54z00007SBJV4CAP
 
 * Chaos: Joint Constraint Per-Frame Leak
+https://udn.unrealengine.com/s/question/0D54z00007WgfXcCAJ/chaos-joint-constraint-perframe-leak
 
-https://udn.unrealengine.com/s/question/0D54z00007WgfXcCAJ/chaos-joint-constraint-perframe- leak
-
-* How do you get substepping to work in Chaos?
-
-https://udn.unrealengine.com/s/question/0D54z00007c1s8rCAA/how-do-you-get-substepping-to- work-in-chaos
+* How do you get substepping to work in Chaos - UDN?
+https://udn.unrealengine.com/s/question/0D54z00007c1s8rCAA/how-do-you-get-substepping-to-work-in-chaos
 
 * Skeletal mesh component ticks before SetWorldLocationAndRotation. Is this a known issue?
+https://udn.unrealengine.com/s/question/0D54z00007Y4aWoCAJ/skeletal-mesh-component-ticks-before-setworldlocationandrotation-is-this-a-known-issue
 
-https://udn.unrealengine.com/s/question/0D54z00007Y4aWoCAJ/skeletal-mesh-component-ticks- before-setworldlocationandrotation-is-this-a-known-issue
-
-* Feed Detail https://udn.unrealengine.com/s/feed/0D54z00006u24i1CAA
+* UDN Feed https://udn.unrealengine.com/s/feed/0D54z00006u24i1CAA
 
 * Causing Chaos: The Future of Physics and Destruction https://udn.unrealengine.com/s/article/Causing-Chaos-The-Future-of-Physics-and-Destruction
 
 * Some ISPC functions aren't set up to vectorize
-
-https://udn.unrealengine.com/s/question/0D54z00007Y4aTBCAZ/some-ispc-functions-arent-set-up- to-vectorize
+https://udn.unrealengine.com/s/question/0D54z00007Y4aTBCAZ/some-ispc-functions-arent-set-up-to-vectorize
 
 * GDC Vault - Scalability for All: Unreal Engine 4 on Intel (Presented by Epic Games and Intel) https://gdcvault.com/browse/gdc-19/play/1026175
-
-*
-
-https://s3-us-west-2.amazonaws.com/near-me-oregon/instances/132/uploads/attachments/ custom_attachment/file/16837/GDC_2020_ISPC_in_Unreal_Engine_4.pdf?X-Amz-Expires=600&X- Amz-Date=20220912T211329Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz- Credential=AKIA4IMKIWYVKZ6JE7X7/20220912/us-west-2/s3/aws4_request&X-Amz- SignedHeaders=host&X-Amz- Signature=bbd5a5b1d6919b7e841d44d02c6c6f2625ed157db1d55f422d9cce39a8c48a6d
+* GDC ISPC in Unreal Engine Presentation https://s3-us-west-2.amazonaws.com/near-me-oregon/instances/132/uploads/attachments/custom_attachment/file/16837/GDC_2020_ISPC_in_Unreal_Engine_4.pdf?X-Amz-Expires=600&X-Amz-Date=20220912T211329Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4IMKIWYVKZ6JE7X7/20220912/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bbd5a5b1d6919b7e841d44d02c6c6f2625ed157db1d55f422d9cce39a8c48a6d
