@@ -202,3 +202,19 @@ https://udn.unrealengine.com/s/question/0D54z00007Y4aTBCAZ/some-ispc-functions-a
  
 * GDC ISPC in Unreal Engine Presentation
 https://s3-us-west-2.amazonaws.com/near-me-oregon/instances/132/uploads/attachments/custom_attachment/file/16837/GDC_2020_ISPC_in_Unreal_Engine_4.pdf?X-Amz-Expires=600&X-Amz-Date=20220912T211329Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4IMKIWYVKZ6JE7X7/20220912/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bbd5a5b1d6919b7e841d44d02c6c6f2625ed157db1d55f422d9cce39a8c48a6d
+
+* Unreal Engine 5 Chaos Vehicle Not Moving Bug - YouTube https://m.youtube.com/watch?v=TNPTyQUS63A
+
+* Is it possible to modify collision contacts?
+
+https://udn.unrealengine.com/s/question/0D54z00007Y4acYCAR/is-it-possible-to-modify-collision- contacts
+
+* [UE5, Chaos] How to create constraints between arbitrary FBodyInstances in code
+
+https://udn.unrealengine.com/s/question/0D54z000084woFlCAI/ue5-chaos-how-to-create- constraints-between-arbitrary-fbodyinstances-in-code
+
+* Chaos puts bodies to sleep if a low enough force is applied, despite current velocity
+
+https://udn.unrealengine.com/s/question/0D54z00007ZEoYHCA1/chaos-puts-bodies-to-sleep-if-a- low-enough-force-is-applied-despite-current-velocity
+
+* Chaos Scene Queries and Rigid Body Engine in UE5 - Unreal Engine https://www.unrealengine.com/en-US/tech-blog/chaos-scene-queries-and-rigid-body-engine-in-ue5
