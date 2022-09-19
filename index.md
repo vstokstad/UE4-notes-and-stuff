@@ -225,6 +225,4 @@ https://udn.unrealengine.com/s/question/0D54z00007ZEoYHCA1/chaos-puts-bodies-to-
 
 * GPU skin cache tanking FPS https://udn.unrealengine.com/s/question/0D54z00007iN9nhCAC/gpu-skin-cache-tanking-fps
 
-* Skeletal Mesh Deferred Kinematic Update question
-
-https://udn.unrealengine.com/s/question/0D54z000082To1CCAS/skeletal-mesh-deferred-kinematic- update-question
+* Skeletal Mesh Deferred Kinematic Update question <https://udn.unrealengine.com/s/question/0D54z000082To1CCAS/skeletal-mesh-deferred-kinematic- update-question>
