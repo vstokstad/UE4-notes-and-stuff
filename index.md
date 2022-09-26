@@ -1,3 +1,5 @@
+* Skeletal mesh vertex editing - Unreal Engine / Programming & Scripting - Unreal Engine Forums <https://forums.unrealengine.com/t/skeletal-mesh-vertex-editing/339834>
+
 * Running Gauntlet Tests | Unreal Engine 4.27 Documentation
 
 <https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/Automation/Gauntlet/ RunningTests/>
