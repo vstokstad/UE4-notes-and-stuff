@@ -1,3 +1,7 @@
+* Using DDC for QA Builds vs Full Cooks
+
+<https://udn.unrealengine.com/s/question/0D54z0000879GnYCAU/using-ddc-for-qa-builds-vs-full- cooks>
+
 * Skeletal mesh vertex editing - Unreal Engine / Programming & Scripting - Unreal Engine Forums <https://forums.unrealengine.com/t/skeletal-mesh-vertex-editing/339834>
 
 * Running Gauntlet Tests | Unreal Engine 4.27 Documentation
