@@ -1,3 +1,7 @@
+* AyoubKhammassi/CustomMeshComponent: The minimal source code for creating a custom mesh component and using it in Unreal Engine 4. This is an example project published with a series of articles that cover the topic.
+
+<https://github.com/AyoubKhammassi/CustomMeshComponent>
+
 * https://youtube.com/watch?v=zcDv5WfCTSU&feature=share <https://youtube.com/watch?v=zcDv5WfCTSU&feature=share>
 
 * Using DDC for QA Builds vs Full Cooks
