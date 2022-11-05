@@ -1,3 +1,5 @@
+* Image generation - OpenAI API <https://beta.openai.com/docs/guides/images/usage>
+
 * https://youtube.com/watch?v=4NkNBImONJU&feature=share <https://youtube.com/watch?v=4NkNBImONJU&feature=share>
 
 * EmberGen: Real-Time Fluid Simulations For Fire, Smoke, And Explosions! <https://jangafx.com/software/embergen/?section=games>
