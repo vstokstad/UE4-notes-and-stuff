@@ -1,3 +1,5 @@
+* Steam Deck Quick Start in Unreal Engine | Unreal Engine 5.0 Documentation <https://docs.unrealengine.com/5.0/en-US/steam-deck-quick-start-in-unreal-engine/>
+
 * Image generation - OpenAI API <https://beta.openai.com/docs/guides/images/usage>
 
 * https://youtube.com/watch?v=4NkNBImONJU&feature=share <https://youtube.com/watch?v=4NkNBImONJU&feature=share>
