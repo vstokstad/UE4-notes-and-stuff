@@ -1,3 +1,7 @@
+* World Partition: Soft object pointers for actors that are in Data Layers or Spatially Loaded fail to resolve.
+
+<https://udn.unrealengine.com/s/question/0D54z00008PRvloCAD/world-partition-soft-object- pointers-for-actors-that-are-in-data-layers-or-spatially-loaded-fail-to-resolve>
+
 * Optimize Unreal Engine builds with BuildGraph and CircleCI | CircleCI <https://circleci.com/blog/optimize-unreal-engine-builds/>
 
 * Steam Deck Quick Start in Unreal Engine | Unreal Engine 5.0 Documentation <https://docs.unrealengine.com/5.0/en-US/steam-deck-quick-start-in-unreal-engine/>
