@@ -1,3 +1,5 @@
+* Stargazers · gszauer/GamePhysicsCookbook <https://github.com/gszauer/GamePhysicsCookbook>
+
 * LearningUnrealEngine/Unit tests source notes.md at master · ibbles/LearningUnrealEngine
 
 <https://github.com/ibbles/LearningUnrealEngine/blob/master/ Unit%20tests%20source%20notes.md>
