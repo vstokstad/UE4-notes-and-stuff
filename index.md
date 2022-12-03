@@ -1,3 +1,5 @@
+* Game Physics Cookbook <https://gamephysicscookbook.com/>
+
 * Stargazers · gszauer/GamePhysicsCookbook <https://github.com/gszauer/GamePhysicsCookbook>
 
 * LearningUnrealEngine/Unit tests source notes.md at master · ibbles/LearningUnrealEngine
