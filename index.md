@@ -1,3 +1,5 @@
+* PacktPublishing/Mastering-Graphics-Programming-with-Vulkan <https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan>
+
 [ ![Header image](rtr-header.png) ](http://www.realtimerendering.com/blog/)
 
   * [Blog](http://www.realtimerendering.com/blog/)
