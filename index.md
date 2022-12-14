@@ -1,3 +1,5 @@
+* Tech Note: WinGDK PSO cache fix <https://udn.unrealengine.com/s/article/Tech-Note-WinGDK-PSO-cache-fix>
+
 * Using the RebuildHLOD Automation Tool <https://udn.unrealengine.com/s/article/Using-the-RebuildHLOD-Automation-Tool>
 
 * Summary of How HLODs Are Generated in Fortnite <https://udn.unrealengine.com/s/article/Summary-of-How-HLODs-Are-Generated-in-Fortnite>
