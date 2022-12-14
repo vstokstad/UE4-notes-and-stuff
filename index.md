@@ -1,3 +1,5 @@
+* Using the RebuildHLOD Automation Tool <https://udn.unrealengine.com/s/article/Using-the-RebuildHLOD-Automation-Tool>
+
 * Summary of How HLODs Are Generated in Fortnite <https://udn.unrealengine.com/s/article/Summary-of-How-HLODs-Are-Generated-in-Fortnite>
 
 * PacktPublishing/Mastering-Graphics-Programming-with-Vulkan <https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan>
