@@ -1,3 +1,5 @@
+* Primer: Loading Pak Files and Content at Runtime <https://udn.unrealengine.com/s/article/Primer-Loading-Pak-Files-and-Content-at-Runtime>
+
 * Experimental: Getting Started With Iris <https://udn.unrealengine.com/s/article/Experimental-Getting-Started-With-Iris>
 
 * Tech Note: WinGDK PSO cache fix <https://udn.unrealengine.com/s/article/Tech-Note-WinGDK-PSO-cache-fix>
