@@ -1,3 +1,7 @@
+* Fixed random crash ocurring in HLOD builder commandlet, where we're h... · EpicGames/ UnrealEngine@62f5660
+
+<https://github.com/EpicGames/UnrealEngine/commit/ 62f566009a8ad315e3177f368e9dc8644ddf3e41>
+
 * Unreal 5.1 appears to be forcing foliage to fully load no matter the distance from the camera during a render Queue Render
 
 <https://udn.unrealengine.com/s/question/0D54z00008UMi1dCAD/unreal-51-appears-to-be-forcing- foliage-to-fully-load-no-matter-the-distance-from-the-camera-during-a-render-queue-render>
