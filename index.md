@@ -1,3 +1,7 @@
+* Unreal 5.1 appears to be forcing foliage to fully load no matter the distance from the camera during a render Queue Render
+
+<https://udn.unrealengine.com/s/question/0D54z00008UMi1dCAD/unreal-51-appears-to-be-forcing- foliage-to-fully-load-no-matter-the-distance-from-the-camera-during-a-render-queue-render>
+
 * Primer: Loading Pak Files and Content at Runtime <https://udn.unrealengine.com/s/article/Primer-Loading-Pak-Files-and-Content-at-Runtime>
 
 * Experimental: Getting Started With Iris <https://udn.unrealengine.com/s/article/Experimental-Getting-Started-With-Iris>
