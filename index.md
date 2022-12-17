@@ -1,3 +1,5 @@
+* Crafting Interpreters <https://craftinginterpreters.com/>
+
 * Fixed random crash ocurring in HLOD builder commandlet, where we're h... · EpicGames/ UnrealEngine@62f5660
 
 <https://github.com/EpicGames/UnrealEngine/commit/ 62f566009a8ad315e3177f368e9dc8644ddf3e41>
