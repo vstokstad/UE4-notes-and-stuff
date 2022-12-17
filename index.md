@@ -1,3 +1,5 @@
+* The Grug Brained Developer <https://grugbrain.dev/>
+
 * Crafting Interpreters <https://craftinginterpreters.com/>
 
 * Fixed random crash ocurring in HLOD builder commandlet, where we're h... · EpicGames/ UnrealEngine@62f5660
