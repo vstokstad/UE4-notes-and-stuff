@@ -992,3 +992,7 @@ https://udn.unrealengine.com/s/question/0D54z00007ZEoYHCA1/chaos-puts-bodies-to-
 * GPU skin cache tanking FPS https://udn.unrealengine.com/s/question/0D54z00007iN9nhCAC/gpu-skin-cache-tanking-fps
 
 * Skeletal Mesh Deferred Kinematic Update question <https://udn.unrealengine.com/s/question/0D54z000082To1CCAS/skeletal-mesh-deferred-kinematic- update-question>
+
+* In case anyone runs into this; 
+The issue is that between 4.27 and 5.0 Epic introduced a regression issue with fast loading clients during seamless travel. Since we rely heavily on that it failed. 
+The fix is CL 19907190 & CL 18005285 which we were missing.
