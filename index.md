@@ -1,3 +1,7 @@
+* Low res mips only on certain objects
+
+<https://udn.unrealengine.com/s/question/0D52L00005HA6W2SAL/low-res-mips-only-on-certain- objects>
+
 * Unreal Engine Issues and Bug Tracker (UE-181294) <https://issues.unrealengine.com/issue/UE-181294>
 
 * How to Improve Texture Streaming GPU performance in UE5 over 20% increase on GPU memory [Solved] - Development / Platform & Builds - Epic Developer Community Forums
