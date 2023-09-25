@@ -1,3 +1,5 @@
+* https://medium.com/@davidzulic/unity-drawing-custom-debug-shapes-part-1-4941d3fda905 <https://medium.com/@davidzulic/unity-drawing-custom-debug-shapes-part-1-4941d3fda905>
+
 * Low res mips only on certain objects
 
 <https://udn.unrealengine.com/s/question/0D52L00005HA6W2SAL/low-res-mips-only-on-certain- objects>
