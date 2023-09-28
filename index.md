@@ -1,3 +1,5 @@
+* Crash Reporter Client for Unreal Engine | Sentry Documentation <https://docs.sentry.io/platforms/unreal/configuration/setup-crashreporter/>
+
 * https://medium.com/@davidzulic/unity-drawing-custom-debug-shapes-part-1-4941d3fda905 <https://medium.com/@davidzulic/unity-drawing-custom-debug-shapes-part-1-4941d3fda905>
 
 * Low res mips only on certain objects
