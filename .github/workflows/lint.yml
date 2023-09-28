@@ -41,4 +41,4 @@ jobs:
           # Files to ignore/exclude
           ignore: notes/notes.md
           # Files (directories|globs) for a work or any additional arguments
-          args: notes/links.md 
+          args: notes/index.md 
