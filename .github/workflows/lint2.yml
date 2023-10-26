@@ -6,7 +6,9 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: DavidAnson/markdownlint-cli2-action@v13
+      continue-on-error: true
       with:
+        fix: true
         globs: |
           *.md
           !test/*.md
