@@ -1,6 +1,3 @@
-* Large World Coordinates in Niagara for Unreal Engine | Unreal Engine 5.3 Documentation <https://docs.unrealengine.com/5.3/en-US/large-world-coordinates-in-niagara-for-unreal-engine/>
-
-
 * Large World Coordinates in Niagara for Unreal Engine
 <https://docs.unrealengine.com/5.3/en-US/large-world-coordinates-in-niagara-for-unreal-engine/>
 
