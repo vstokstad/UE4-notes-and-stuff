@@ -1,0 +1,3 @@
+* Relationship between Niagara DataInterface and it's PerInstanceData?
+
+<https://udn.unrealengine.com/s/question/0D52L00004lunvOSAQ/relationship-between-niagara- datainterface-and-its-perinstancedata>
