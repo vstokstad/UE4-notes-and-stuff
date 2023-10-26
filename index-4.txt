@@ -1,3 +1,0 @@
-* Niagara Spawn particles in custom positions | Epic Developer Community
-
-<https://dev.epicgames.com/community/snippets/L2B/unreal-engine-niagara-spawn-particles-in- custom-positions>

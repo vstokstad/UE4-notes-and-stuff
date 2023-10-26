@@ -1,1 +1,0 @@
-* Virtual Texture Memory Pools in Unreal Engine | Unreal Engine 5.3 Documentation <https://docs.unrealengine.com/5.3/en-US/virtual-texture-memory-pools-in-unreal-engine/>
