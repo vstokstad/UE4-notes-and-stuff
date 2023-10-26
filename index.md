@@ -21,7 +21,6 @@
 * Unreal Engine Issues and Bug Tracker (UE-181294) <https://issues.unrealengine.com/issue/UE-181294>
 
 * How to Improve Texture Streaming GPU performance in UE5 over 20% increase on GPU memory [Solved] - Development / Platform & Builds - Epic Developer Community Forums
-
 <https://forums.unrealengine.com/t/how-to-improve-texture-streaming-gpu-performance-in-ue5- over-20-increase-on-gpu-memory-solved/267023/19>
 
 * What is Crunch Compression? - techarthub <https://www.techarthub.com/what-is-crunch-compression/>
