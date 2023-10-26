@@ -23,6 +23,18 @@ concurrency:
 
 jobs:
   # Build job
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: DavidAnson/markdownlint-cli2-action@v13
+      continue-on-error: true
+      with:
+        fix: true
+        globs: |
+          *.md
+          !test/*.md
+
   build:
     runs-on: ubuntu-latest
     steps:
