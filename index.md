@@ -1,3 +1,7 @@
+* Adding Stat Traces (Stat Commands) in Unreal Engine - Tom Looman <https://www.tomlooman.com/unreal-engine-profiling-stat-commands/>
+
+* Unreal Engine Game Optimization on a Budget - Tom Looman <https://www.tomlooman.com/unrealengine-optimization-talk/>
+
 * PSO Precaching for Unreal Engine | Unreal Engine 5.3 Documentation <https://docs.unrealengine.com/5.3/en-US/pso-precaching-for-unreal-engine/>
 
 [ ![Header image](rtr-header.png) ](http://www.realtimerendering.com/blog/)
