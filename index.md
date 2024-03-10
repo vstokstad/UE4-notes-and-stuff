@@ -1,3 +1,7 @@
+* Jenkins, CI and Test-Driven Development | Unreal Engine Community Wiki <https://unrealcommunity.wiki/jenkins-ci-amp-test-driven-development-6912tx0c>
+
+* Posts | Easyperf <https://easyperf.net/notes/>
+
 * Adding Stat Traces (Stat Commands) in Unreal Engine - Tom Looman <https://www.tomlooman.com/unreal-engine-profiling-stat-commands/>
 
 * Unreal Engine Game Optimization on a Budget - Tom Looman <https://www.tomlooman.com/unrealengine-optimization-talk/>
