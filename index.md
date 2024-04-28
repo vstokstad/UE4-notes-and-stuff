@@ -1,3 +1,7 @@
+* Tasm Windows 7|Windows 8|8.1 Full Screen 32bit-64bit Version Single Installer Updated Fullscreen – TechApple
+
+<https://techapple.net/2013/01/tasm-windows-7-windows-8-full-screen-64bit-version-single-installer/ >
+
 * Jenkins, CI and Test-Driven Development | Unreal Engine Community Wiki <https://unrealcommunity.wiki/jenkins-ci-amp-test-driven-development-6912tx0c>
 
 * Posts | Easyperf <https://easyperf.net/notes/>
