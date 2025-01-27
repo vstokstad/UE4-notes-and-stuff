@@ -8,16 +8,6 @@ Forums
 
 unreal-engine-projects-unreal-fest-gold-coast-2024/2110180>
 
-* Talks And Demos: How to Benefit from Multithreading in Your Unreal Engine Projects | Unreal
-
-Fest Gold Coast 2024 - General / Tutorial & Course Discussions - Epic Developer Community
-
-Forums
-
-<https://forums.unrealengine.com/t/talks-and-demos-how-to-benefit-from-multithreading-in-your-
-
-unreal-engine-projects-unreal-fest-gold-coast-2024/2110180>
-
 * Lumen Performance Guide for Unreal Engine | Unreal Engine 5.5 Documentation | Epic
 
 Developer Community
